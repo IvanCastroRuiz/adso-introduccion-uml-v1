@@ -1,0 +1,258 @@
+/* Botón con escala*/
+.btn {transition: 0.15s;
+	transform: scale(1) !important;}
+.btn:hover {transform: scale(1.03) !important;}
+
+#Stage_menu_opciones_contenido_opciones_bt_opciones6 {
+    visibility: hidden; 
+} 
+
+@font-face {
+  font-family:'abel';
+  src: url('abel.ttf');
+  src: url('abel.eot?#iefix') format('embedded-opentype'), url('abel.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* botones navegacion  bt_ampliar_hover.svg*/
+.bt_introduccion:hover { background-image:url(bt_introduccion_hover.svg) !important;}
+.bt_home:hover { background-image:url(bt_home_hover.svg) !important;}
+.bt_ampliar:hover { background-image:url(bt_ampliar_hover.svg) !important;}
+.bt_cerrar:hover { background-image:url(bt_cerrar_hover.svg) !important;}
+.btcerrar2:hover { background-image:url(bt_cerrar2_hover.svg) !important;}
+.bt_ejemplo:hover { background-image:url(bt_ejemplo_hover.svg) !important;}
+.bt_atributos:hover { background-image:url(bt_atributos_hover.svg) !important;}
+
+.bt_siguiente:hover { background-image:url(bt_siguiente_hover.svg) !important;}
+.bt_anterior:hover { background-image:url(bt_anterior_hover.svg) !important;}
+.bt_ver_grafica:hover { background-image:url(bt_ver_grafica_hover.svg) !important;}
+.bt_volver1:hover { background-image:url(bt_volver1_hover.svg) !important;}
+.bt_volver2:hover { background-image:url(bt_volver2_hover.svg) !important;}
+
+/* botones menú opciones*/
+.bt_opciones1:hover { background-image:url(bt_opciones1_b.svg) !important;}
+.bt_opciones2:hover { background-image:url(bt_opciones2_b.svg) !important;}
+.bt_opciones3:hover { background-image:url(bt_opciones3_b.svg) !important;}
+.bt_opciones4:hover { background-image:url(bt_opciones4_b.svg) !important;}
+.bt_opciones5:hover { background-image:url(bt_opciones5_b.svg) !important;}
+.bt_opciones6:hover { background-image:url(bt_opciones6_b.svg) !important;}
+
+/* botones menú OA*/
+.bt1:hover { background-image:url(bt1_hover.svg) !important;}
+.bt2:hover {background-image: url(bt2_hover.svg) !important;}
+.bt3:hover {background-image: url(bt3_hover.svg) !important;}
+.bt4:hover {background-image: url(bt4_hover.svg) !important;}
+
+/* botones Temas*/
+.bt5:hover {background-image: url(bt5_hover.svg) !important;}
+.bt6:hover {background-image: url(bt6_hover.svg) !important;}
+.bt7:hover {background-image: url(bt7_hover.svg) !important;}
+.bt8:hover {background-image: url(bt8_hover.svg) !important;}
+.bt9:hover {background-image: url(bt9_hover.svg) !important;}
+.bt10:hover {background-image: url(bt10_hover.svg) !important;}
+.bt11:hover {background-image: url(bt11_hover.svg) !important;}
+.bt12:hover {background-image: url(bt12_hover.svg) !important;}
+.bt13:hover {background-image: url(bt13_hover.svg) !important;}
+.bt14:hover {background-image: url(bt14_hover.svg) !important;}
+.bt15:hover {background-image: url(bt15_hover.svg) !important;}
+.bt16:hover {background-image: url(bt16_hover.svg) !important;}
+.bt17:hover {background-image: url(bt17_hover.svg) !important;}
+.bt18:hover {background-image: url(bt18_hover.svg) !important;}
+.bt19:hover {background-image: url(bt19_hover.svg) !important;}
+.bt20:hover {background-image: url(bt20_hover.svg) !important;}
+.bt21:hover {background-image: url(bt21_hover.svg) !important;}
+.bt22:hover {background-image: url(bt22_hover.svg) !important;}
+.bt23:hover {background-image: url(bt23_hover.svg) !important;}
+.bt24:hover {background-image: url(bt24_hover.svg) !important;}
+.bt25:hover {background-image: url(bt25_hover.svg) !important;}
+.bt26:hover {background-image: url(bt26_hover.svg) !important;}
+.bt27:hover {background-image: url(bt27_hover.svg) !important;}
+.bt28:hover {background-image: url(bt28_hover.svg) !important;}
+.bt29:hover {background-image: url(bt29_hover.svg) !important;}
+.bt30:hover {background-image: url(bt30_hover.svg) !important;}
+.bt31:hover {background-image: url(bt31_hover.svg) !important;}
+.bt32:hover {background-image: url(bt32_hover.svg) !important;}
+.bt33:hover {background-image: url(bt33_hover.svg) !important;}
+
+
+
+
+
+
+ul { list-style-image:url(img_lista.png);
+height:auto;}
+
+
+
+
+
+
+
+
+
+
+.bt_zoom_in:hover { background-image:url(bt_zoom_in_b.svg) !important;}
+.bt_zoom_out:hover { background-image:url(bt_zoom_out_b.svg) !important;}
+
+.btver:hover { background-image:url(btver_b.svg) !important;}
+
+
+.btpla1:hover { background-image:url(btpla1_b.svg) !important;}
+.btpla2:hover { background-image:url(btpla2_b.svg) !important;}
+.btpla3:hover { background-image:url(btpla3_b.svg) !important;}
+.btpla4:hover { background-image:url(btpla4_b.svg) !important;}
+
+.btcar:hover { background-image:url(btcar_b.svg) !important;}
+
+.bt4_sub5:hover { background-image:url(bt4_sub5_b.svg) !important;}
+.bt4_sub6:hover { background-image:url(bt4_sub6_b.svg) !important;}
+.bt4_sub7:hover { background-image:url(bt4_sub7_b.svg) !important;}
+.bt6_sub1:hover { background-image:url(bt6_sub1_b.svg) !important;}
+.bt6_sub2:hover { background-image:url(bt6_sub2_b.svg) !important;}
+.bt6_sub3:hover { background-image:url(bt6_sub3_b.svg) !important;}
+
+.btn_s1:hover { background-image:url(bt_arq1b.svg) !important;}
+.btn_s2:hover { background-image:url(bt_arq2b.svg) !important;}
+.btn_s3:hover { background-image:url(bt_arq3b.svg) !important;}
+.btn_s4:hover { background-image:url(bt_arq4b.svg) !important;}
+.btn_s5:hover { background-image:url(bt_arq5b.svg) !important;}
+.btn_s6:hover { background-image:url(bt_arq6b.svg) !important;}
+.btn_s7:hover { background-image:url(bt_arq7b.svg) !important;}
+
+
+.btn_d1:hover { background-image:url(bt_1t2d_b.svg) !important;}
+.btn_d2:hover { background-image:url(bt_2t2d_b.svg) !important;}
+.btn_d3:hover { background-image:url(bt_3t2d_b.svg) !important;}
+.btn_d4:hover { background-image:url(bt_4t2d_b.svg) !important;}
+.btn_d5:hover { background-image:url(bt_5t2d_b.svg) !important;}
+
+.btnx {
+	transition: 0.1s;
+}
+.btnx:hover {
+	transform: translateX(8px) !important;
+	
+}
+
+.volver {
+	transition: 0.1s;
+}
+.volver:hover {
+	transform: translateX(-8px) !important;
+	
+}
+
+
+.bt_tapa:hover {background-image: url(bt_tapa.svg) !important;}
+
+
+.tipos:hover {background-image: url(ver_tiposb.svg) !important;}
+.cuadro:hover {background-image: url(ver_cuadrob.svg) !important;}
+.estilos:hover {background-image: url(estilosb.svg) !important;}
+
+
+
+.btn_ant:hover {background-image: url(bt_anteriorb.svg) !important;}
+.btn_sig:hover {background-image: url(bt_siguienteb.svg) !important;}
+
+
+
+.btn_cerrar:hover {
+	background-image: url(bt_cerrar_b.svg) !important;
+	transform: scale(1.1) !important;
+	-webkit-transform-: scale(1.1) !important;
+}
+.btn_cerrar2:hover {
+	background-image: url(bt_cerrar_b.svg) !important;
+
+}
+
+.p1 {
+  background-image:url(bt1.svg);
+  -webkit-transform-: scale(1.3) !important;
+  background-repeat:no-repeat;
+  background-position:center;
+}
+
+
+.texto14 { font-size:24px
+ }
+
+/*Fuente*/
+@font-face {
+  font-family:'ailerons';
+  src: url('ailerons.ttf');
+  src: url('ailerons.eot?#iefix') format('embedded-opentype'), url('ailerons.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*Viñeta*/
+ul { list-style-image:url(vineta.png);
+height:auto;}
+
+
+/*Viñeta*/
+.dos ul { list-style-image:url(img_lista2.png);
+height:auto;}
+
+
+
+/*Tabla*/
+.cuatro table {
+    border-collapse: collapse;
+	width: 100%;
+	background:#FFFFFF;
+}
+
+.cuatro th, td {
+	border: 2px solid #000000;
+	padding: 3px 4px;
+}
+
+.cuatro tr:nth-child(odd){background-color: #f2f2f2}
+
+.cuatro th {
+	height: 46px;
+	font-weight: bold;
+	text-align: center;
+	color: #f7ebcb;
+	background-color: #f76881;
+}
+
+.cuatro td {text-align: justify ;
+color: #353833;
+background-color: #bdb39d;
+margin: 15px;
+  padding: 15px;
+}
+
+.tres table {
+    border-collapse: collapse;
+	width: 100%;
+	background:#FFFFFF;
+}
+
+.tres  th, td {
+	border: 2px solid #000000;
+	padding: 3px 4px;
+}
+
+.tres tr:nth-child(odd){background-color: #f2f2f2}
+
+.tres  th {
+	height: 46px;
+	font-weight: bold;
+	text-align: center;
+	color: #f7ebcb;
+	background-color: #31a6ae;
+}
+
+.tres  td {text-align: justify ;
+
+color: #353833;
+background-color: #bdb39d;
+margin: 15px;
+  padding: 15px;
+}
